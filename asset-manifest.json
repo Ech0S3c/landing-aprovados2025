@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/landing-aprovados2025/static/css/main.48d03d3f.css",
+    "main.js": "/landing-aprovados2025/static/js/main.0b039b49.js",
+    "static/js/453.19d17348.chunk.js": "/landing-aprovados2025/static/js/453.19d17348.chunk.js",
+    "static/media/logo.svg": "/landing-aprovados2025/static/media/logo.9593096f330015ef6bfd4b3121210cb2.svg",
+    "index.html": "/landing-aprovados2025/index.html",
+    "main.48d03d3f.css.map": "/landing-aprovados2025/static/css/main.48d03d3f.css.map",
+    "main.0b039b49.js.map": "/landing-aprovados2025/static/js/main.0b039b49.js.map",
+    "453.19d17348.chunk.js.map": "/landing-aprovados2025/static/js/453.19d17348.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48d03d3f.css",
+    "static/js/main.0b039b49.js"
+  ]
+}
