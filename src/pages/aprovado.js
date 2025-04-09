@@ -27,6 +27,8 @@ import '../App.css';
          { "id": 20, "nome": "Reimar" },
          { "id": 21, "nome": "Sophia Senne" },
          { "id": 22, "nome": "Vinicius Marques" },
+         { "id": 23, "nome": "Joao Carbone"},
+         { "id": 24, "nome": "Richard"},
      ];
  
      const { id } = useParams();

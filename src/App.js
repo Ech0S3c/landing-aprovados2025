@@ -6,6 +6,7 @@ function App() {
   return (
     <Router basename="/landing-aprovados2025">
       <Routes>
+      <Route path="/" element={<Aprovacao />} />
         <Route path="/:id" element={<Aprovacao />} />
       </Routes>
     </Router>
